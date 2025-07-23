@@ -1,0 +1,14 @@
+EQ for Triangle Esprit Titus EZ computed from Misc data
+Preference Score 4.54 with EQ 5.52
+Generated from https://github.com/pierreaubert/spinorama/generate_peqs.py v0.28
+Dated: 2025-07-22-10:42:30
+
+Preamp: -2.4 dB
+
+Filter  1: ON PK Fc    74 Hz Gain +3.93 dB Q 0.56
+Filter  2: ON PK Fc   739 Hz Gain +1.45 dB Q 2.98
+Filter  3: ON PK Fc  1161 Hz Gain +3.98 dB Q 3.00
+Filter  4: ON PK Fc   942 Hz Gain -5.38 dB Q 2.11
+Filter  5: ON PK Fc   117 Hz Gain -2.85 dB Q 0.75
+Filter  6: ON PK Fc   409 Hz Gain +0.78 dB Q 2.43
+Filter  7: ON PK Fc  3177 Hz Gain +1.49 dB Q 1.00
